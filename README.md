@@ -59,6 +59,9 @@ To install Fogway, follow these simple steps:
   <img src="https://github.com/AKHIYAAR.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
   </div>
 
-<a href = "https://github.com/soweha/FogWay/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = soweha/FogWay"/>
+---
+
+
+<a href="https://github.com/soweha/FogWay/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=soweha/FogWay" />
 </a>
