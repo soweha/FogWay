@@ -60,8 +60,3 @@ To install Fogway, follow these simple steps:
   </div>
 
 ---
-
-
-<a href="https://github.com/soweha/FogWay/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=soweha/FogWay" />
-</a>
