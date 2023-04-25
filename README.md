@@ -44,3 +44,19 @@ To install Fogway, follow these simple steps:
 3. Enjoy a safer and more convenient driving experience, even in heavy fog!
 
 
+## Developers
+<div align="center">
+    
+  <img src="https://github.com/Ajayos.png" alt="Ajay o s" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/ACJ007.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/afzalshaji18.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/akarsh-krishna.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/akshay-011.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/aryapradeep212.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/sabiyaabraham.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/Nimisha-n-s.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/Keerthana-bot.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  <img src="https://github.com/AKHIYAAR.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
+  </div>
+
+
