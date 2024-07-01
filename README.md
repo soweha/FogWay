@@ -1,15 +1,14 @@
 ## *Soweha - Fogway*
 
-
 ### Introduction:
 
-Soweha, a startup that focuses in developing unique remedies for common issues, developed a product named Fogway. To assist drivers in navigating through dense fog, Fogway was developed. Advanced sensors are utilised by the product to recognise impediments in the driver's path and alert them about possible dangers.
+Soweha, a startup that focuses on developing unique remedies for common issues, developed a product named Fogway. To assist drivers in navigating through dense fog, Fogway was developed. Advanced sensors are utilized by the product to recognize impediments in the driver's path and alert them about possible dangers.
 
 ### About Fogway
 
-Fogway is a type of product that can be useful on the road during heavy fog. When an obstacle is detected, it alerts the driver with an alarm sound, helping them avoid a collision. The product is easy to use and can be installed in any vehicle. It is a safety device that can prevent accidents caused by poor visibility in foggy weather.
+Fogway is a product that can be useful on the road during heavy fog. When an obstacle is detected, it alerts the driver with an alarm sound, helping them avoid a collision. The product is easy to use and can be installed in any vehicle. It is a safety device that can prevent accidents caused by poor visibility in foggy weather.
 
-### How it works
+### How It Works
 
 Fogway uses a combination of sensors and algorithms to detect obstacles on the road during heavy fog. The device is installed on the dashboard of the vehicle and has a visual display to show the distance of the detected obstacle. The product also makes an alarm sound to alert the driver about the obstacle.
 
@@ -43,20 +42,19 @@ To install Fogway, follow these simple steps:
 2. Follow the included instructions to install Fogway in your vehicle.
 3. Enjoy a safer and more convenient driving experience, even in heavy fog!
 
-
 ## Developers
+
 <div align="center">
-    
-  <img src="https://github.com/Ajayos.png" alt="Ajay o s" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/ACJ007.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/afzalshaji18.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/akarsh-krishna.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/akshay-011.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/aryapradeep212.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/sabiyaabraham.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/Nimisha-n-s.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/Keerthana-bot.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  <img src="https://github.com/AKHIYAAR.png" alt="SOWEHA" style="width:200px;border-radius: 50%;">
-  </div>
+  <img src="https://github.com/Ajayos.png" alt="Ajay o s" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/ACJ007.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/afzalshaji18.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/akarsh-krishna.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/akshay-011.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/aryapradeep212.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/sabiyaabraham.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/Nimisha-n-s.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/Keerthana-bot.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+  <img src="https://github.com/AKHIYAAR.png" alt="SOWEHA" style="width:100px;border-radius: 50%;">
+</div>
 
 ---
